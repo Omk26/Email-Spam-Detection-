@@ -1,6 +1,6 @@
 # 📧 Email Spam Detection Challenge 2026
 
-[![Leaderboard](https://img.shields.io/badge/Leaderboard-Live-brightgreen)](https://Omk26.github.io/Email-Spam-Detection/)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-Live-brightgreen)](https://omk26.github.io/Email-Spam-Detection-/)
 
 > A machine learning challenge to classify emails as **Spam** or **Ham**.  
 > Build your model, submit predictions, and see your score on the live leaderboard!
@@ -9,7 +9,7 @@
 
 ## 📊 Live Leaderboard
 
-👉 **[View Leaderboard](https://Omk26.github.io/Email-Spam-Detection/)**
+👉 **[View Leaderboard](https://omk26.github.io/Email-Spam-Detection-/)**
 
 ---
 
