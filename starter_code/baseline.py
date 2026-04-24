@@ -7,7 +7,7 @@ import joblib
 import os
 
 # 1. Load your data
-df = pd.read_csv('../data/train.csv')
+df = pd.read_csv("./data/train.csv")
 
 # 2. Basic Preprocessing
 FEATURES = [
@@ -44,7 +44,7 @@ joblib.dump(scaler, 'models/scaler.pkl')
 print("Model saved to models/baseline_spam_model.pkl")
 
 # 7. Generate submission on test set
-test_df  = pd.read_csv('../data/test.csv')
+test_df  = pd.read_csv("./data/test.csv")
 X_test   = scaler.transform(test_df[FEATURES])
 test_preds = model.predict(X_test)
 
