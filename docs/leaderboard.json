@@ -28,11 +28,11 @@
   },
   {
     "group": "idrees11",
-    "f1_score": 0.8436,
-    "accuracy": 87.45,
-    "correct": 1749,
+    "f1_score": 0.8426,
+    "accuracy": 87.35,
+    "correct": 1747,
     "total": 2000,
-    "pr": "7",
-    "date": "2026-04-24 08:45 UTC"
+    "pr": "8",
+    "date": "2026-04-24 08:52 UTC"
   }
 ]
