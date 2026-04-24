@@ -25,5 +25,14 @@
     "total": 2000,
     "pr": "6",
     "date": "2026-04-24 07:09 UTC"
+  },
+  {
+    "group": "idrees11",
+    "f1_score": 0.8436,
+    "accuracy": 87.45,
+    "correct": 1749,
+    "total": 2000,
+    "pr": "7",
+    "date": "2026-04-24 08:45 UTC"
   }
 ]
