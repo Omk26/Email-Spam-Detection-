@@ -16,5 +16,14 @@
     "total": 2000,
     "pr": "5",
     "date": "2026-04-24 06:45 UTC"
+  },
+  {
+    "group": "mathwadswaraj16-cpu",
+    "f1_score": 0.6569,
+    "accuracy": 70.65,
+    "correct": 1413,
+    "total": 2000,
+    "pr": "6",
+    "date": "2026-04-24 07:09 UTC"
   }
 ]
